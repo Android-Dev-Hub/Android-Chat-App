@@ -48,3 +48,13 @@ Android-Chat-App/
 ## 🚀 How to Run the App
 
 1. Clone the repository  
+
+2. Open the project in **Android Studio**
+
+3. Connect Firebase to the project  
+- Enable Authentication  
+- Enable Database (Realtime / Firestore)
+
+4. Run the app on an **Emulator** or **Real Device**
+
+---
