@@ -25,3 +25,21 @@ This app allows users to chat in real-time with a clean and user-friendly UI.
   - Firebase Cloud Messaging (FCM)
 
 ---
+## 📂 Project Structure
+```
+Android-Chat-App/
+│
+├── app/
+│ ├── activities/
+│ ├── adapters/
+│ ├── models/
+│ ├── utils/
+│ └── ui/
+│
+├── res/
+│ ├── layout/
+│ ├── drawable/
+│ └── values/
+│
+└── AndroidManifest.xml
+```
