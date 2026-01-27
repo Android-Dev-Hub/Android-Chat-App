@@ -83,3 +83,8 @@ Feel free to fork this repository and submit a pull request.
 This project is for **learning and educational purposes**.
 
 ---
+## 👨‍💻 Author
+
+**Ishan Walia**  
+- GitHub: https://github.com/ishanwalia7579  
+- LinkedIn: https://www.linkedin.com/in/ishanwalia/
