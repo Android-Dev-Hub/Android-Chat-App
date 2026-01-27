@@ -72,3 +72,9 @@ _Add screenshots here_
 - 👤 User Profile Update
 
 ---
+## 🤝 Contributing
+
+Contributions are welcome!  
+Feel free to fork this repository and submit a pull request.
+
+---
