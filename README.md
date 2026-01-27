@@ -58,3 +58,8 @@ Android-Chat-App/
 4. Run the app on an **Emulator** or **Real Device**
 
 ---
+## 📸 Screenshots
+
+_Add screenshots here_
+
+---
