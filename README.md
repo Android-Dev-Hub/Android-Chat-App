@@ -63,3 +63,12 @@ Android-Chat-App/
 _Add screenshots here_
 
 ---
+## 🔮 Future Improvements
+
+- ✅ Group Chat
+- 📎 Send Images & Files
+- 🎤 Voice Messages
+- 🔒 End-to-End Encryption
+- 👤 User Profile Update
+
+---
