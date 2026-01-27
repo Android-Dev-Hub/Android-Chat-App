@@ -15,3 +15,13 @@ This app allows users to chat in real-time with a clean and user-friendly UI.
 - 📱 Responsive UI for all Android devices
 
 ---
+## 🛠️ Tech Stack
+
+- **Language:** Kotlin  
+- **IDE:** Android Studio  
+- **Backend:** Firebase  
+  - Firebase Authentication  
+  - Firebase Realtime Database / Firestore  
+  - Firebase Cloud Messaging (FCM)
+
+---
