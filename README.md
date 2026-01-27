@@ -88,3 +88,5 @@ This project is for **learning and educational purposes**.
 **Ishan Walia**  
 - GitHub: https://github.com/ishanwalia7579  
 - LinkedIn: https://www.linkedin.com/in/ishanwalia/
+
+⭐ If you like this project, don’t forget to give it a star!
